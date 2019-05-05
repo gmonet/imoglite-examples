@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gmonet/imoglite-examples/master?filepath=index.ipynb)
 [![NBviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png)](https://mybinder.org/v2/gh/gmonet/imoglite-examples/master?filepath=index.ipynb)
 
-# imoglite-examples
+# imogolite-examples
 
 ## Available tuto
 - blender
