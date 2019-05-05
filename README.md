@@ -23,7 +23,7 @@
     - neutron
     - [minimizStructNTI](https://nbviewer.jupyter.org/github/gmonet/imoglite-examples/blob/master/simulation/structure/minimizStructNTI.ipynb)
     - xrd
-        - [Debye_GPU](https://nbviewer.jupyter.org/github/gmonet/imoglite-examples/blob/master/simulation/xrd/drx3d.ipynb)
-        - [drx3d](https://nbviewer.jupyter.org/github/gmonet/imoglite-examples/blob/master/simulation/xrd/debye_gpu/Debye_GPU.ipynb)
+        - [Debye_GPU](https://nbviewer.jupyter.org/github/gmonet/imoglite-examples/blob/master/simulation/xrd/debye_gpu/Debye_GPU.ipynb)
+        - [drx3d](https://nbviewer.jupyter.org/github/gmonet/imoglite-examples/blob/master/simulation/xrd/drx3d.ipynb)
 - xafs
 - utils
