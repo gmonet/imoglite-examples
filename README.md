@@ -1,5 +1,14 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gmonet/imoglite-examples/master?filepath=index.ipynb)
-[![NBviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png)](https://mybinder.org/v2/gh/gmonet/imoglite-examples/master?filepath=index.ipynb)
+<a href="https://mybinder.org/v2/gh/gmonet/imoglite-examples/master?filepath=index.ipynb" 
+   target="_parent">
+   <img align="left" 
+      src="https://mybinder.org/badge_logo.svg">
+</a>
+<a href="https://mybinder.org/v2/gh/gmonet/imoglite-examples/master?filepath=index.ipynb" 
+   target="_parent">
+   <img align="right" 
+      src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
+      width="109" height="20">
+</a>
 
 # imogolite-examples
 
